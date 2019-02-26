@@ -3,7 +3,7 @@
 
     <groupId>com.trievosoftware</groupId>
     <artifactId>giphy4j</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Giphy4J</name>
@@ -25,7 +25,7 @@
         <connection>scm:git:git@github.com:trievo/Giphy4J.git</connection>
         <developerConnection>scm:git:git@github.com:trievo/Giphy4J.git</developerConnection>
         <url>https://github.com/trievo/Giphy4J</url>
-        <tag>giphy4j-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <organization>
