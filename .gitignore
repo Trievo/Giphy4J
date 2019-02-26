@@ -88,4 +88,6 @@ logs/
 
 .idea/
 
+release.properties
+
 
