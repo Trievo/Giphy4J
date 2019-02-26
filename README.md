@@ -138,15 +138,15 @@ Giphy4J can either be downloaded as a JAR file or embedded as Maven dependency.
 
 ### Manual Install
 
-Download JAR from [here](https://github.com/keshrath/Giphy4J/tree/master/distribution).
+Download JAR from [Sonatype.org](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=com.trievosoftware&a=giphy4j&v=1.0.0&e=jar).
 
 ### Maven
 
 ```xml
 	<dependency>
-		<groupId>com.trievosoftware</groupId>
-		<artifactId>giphy4j</artifactId>
-		<version>1.0.0</version>
+	  <groupId>com.trievosoftware</groupId>
+	  <artifactId>giphy4j</artifactId>
+	  <version>1.0.0</version>
 	</dependency>
 ```
 
